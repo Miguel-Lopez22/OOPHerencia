@@ -11,7 +11,7 @@ namespace OOPHerencia
             Clase claseB = new Clase { Identificador = "A102" };
 
 
-            Estudiante estudiante1 = new Estudiante { nombre = "Natalya Kintana", NumeroUnico = 5, Clase = claseA };
+            Estudiante estudiante1 = new Estudiante { nombre = "Natalya Kintana", NumeroUnico = 6, Clase = claseA };
             Estudiante estudiante2 = new Estudiante { nombre = "Juaquin Montero", NumeroUnico = 8, Clase = claseA };
             Estudiante estudiante3 = new Estudiante { nombre = "Grabiel Garcia Marquez", NumeroUnico = 4, Clase = claseA };
             Estudiante estudiante4 = new Estudiante { nombre = "Miguel Lopez", NumeroUnico = 2, Clase = claseB };
